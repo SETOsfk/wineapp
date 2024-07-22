@@ -1,4 +1,4 @@
-Wine Recommender and Score Predictor
+Wine Recommender and Score Predictor (https://g1fccn-sertan0afak.shinyapps.io/wine_app/)
 
 This Shiny application helps users find wines that match their preferences and predicts the score of their wine based on specific features. The app uses machine learning models and data visualization techniques to provide insights into wine selection and scoring.
 I've used "21st Century Bordeaux Wine"  "https://www.kaggle.com/datasets/mexwell/21st-century-bordeaux-wine-dataset/code" dataset from kaggle. You can see all the details of analysis at my kaggle account "https://www.kaggle.com/sertanafak".
