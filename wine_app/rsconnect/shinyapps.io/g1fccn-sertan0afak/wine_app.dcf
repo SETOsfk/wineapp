@@ -5,7 +5,7 @@ account: g1fccn-sertan0afak
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12330719
-bundleId: 8875908
+bundleId: 8892120
 url: https://g1fccn-sertan0afak.shinyapps.io/wine_app/
 version: 1
 asMultiple: FALSE

@@ -8,9 +8,9 @@ editor_options:
     wrap: 72
 ---
 
-# How to Read Wine Tasting Notes
+#### How to Read Wine Tasting Notes
 
-## Dry white wines
+##### Dry white wines
 
 ![](images/Dry-white-wine-tasting-note-graphic.jpg)
 
@@ -50,7 +50,7 @@ grape variety dominated by terroir, great persistence, very good future.
 -   buttery – the impression of ripeness with a certain fleshiness,
     often the result of barrel fermentation or barrel ageing
 
-## Aromatic and sweet white wines
+##### Aromatic and sweet white wines
 
 ![](images/sweet-wine-tasting-note-graphic.jpg)
 
@@ -91,7 +91,7 @@ tasting superbly at 15 years, with as long again in front of it.
     increasing the sugars, when they are attacked by pourriture noble,
     or noble rot
 
-## Light red wines
+##### Light red wines
 
 ![](images/light-red-wine-tasting-note-graphic.jpg)
 
@@ -132,7 +132,7 @@ food.
     food, for their fruitiness dominates. A ‘food wine’ is one that
     complements a meal
 
-## Medium-bodied red wines
+##### Medium-bodied red wines
 
 ![](images/Medium-bodied-red-wine-tasting-note-graphic.jpg)
 
