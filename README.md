@@ -1,53 +1,74 @@
-[Wine Recommender and Score Predictor](https://g1fccn-sertan0afak.shinyapps.io/wine_app/)
+# 🍷 Wine Quality Explorer App
 
-This Shiny application helps users find wines that match their preferences and predicts the score of their wine based on specific features. The app uses machine learning models and data visualization techniques to provide insights into wine selection and scoring.
-I've used ["21st Century Bordeaux Wine"](https://www.kaggle.com/datasets/mexwell/21st-century-bordeaux-wine-dataset/code) dataset from kaggle. You can see the analysis at "analysis" section if you want detailed analysis you can check my [kaggle](https://www.kaggle.com/sertanafak).
+This repository contains an **interactive Shiny web application** designed to explore wine quality datasets through **dynamic visualizations**, **statistical summaries**, and **machine learning models**. Built using **R** and **Shiny**, the app helps users analyze the factors influencing wine quality in an intuitive, visual way.
 
+---
 
-This is my first MLOPS project. If you have any questions or suggestions please feel free to contact. 
-[Email](setosfk@outlook.com)
+## 🚀 Features
 
+- 📊 **Interactive visualizations** with `ggplot2` and `plotly`
+- 🔍 **Exploratory data analysis** on physicochemical attributes
+- 🧪 **Machine learning models** (classification/prediction of wine quality)
+- 🎛️ Filter and compare wines by chemical properties
+- 📈 Correlation heatmaps, scatter plots, and boxplots
+- 💡 Suitable for both red and white wine datasets
 
-Features
+---
 
-	•	Wine Finder: Select up to 2 main words that describe your wine, and find wines that are similar based on these characteristics.
-	•	Score Predictor: Predict the score of your wine based on selected features, with explanations for the predictions.
-	•	Word Cloud: Visualize the most frequently used words by wine enthusiasts for wines scoring above 90 and below 89.
-	•	Value Boxes: Display the most used main words by critics.
-	•	Interactive Explanations: Understand why the system chose a particular score with interactive plots.
- Usage
+## 🧰 Technologies Used
 
-Wine Finder
+- **R**, **Shiny**, **tidyverse**
+- `ggplot2`, `plotly`, `caret`, `shinyWidgets`, `dplyr`, `data.table`
 
-	1.	Select Columns: Choose up to 2 main descriptive words for your wine from the dropdown menu.
-	2.	Find Wine: Click the “Find Wine” button to get a list of similar wines based on your selection.
+---
 
-Score Predictor
+## 📦 Folder Structure
 
-	1.	Select Columns: Choose the features of your wine from the dropdown menu.
-	2.	Predict Score: Click the “Predict Score” button to get the predicted score and explanation of the prediction.
-	3.	Understanding Predictions: View the explanation plot to understand the factors influencing the predicted score.
+```
+wineapp/
+├── app.R               # Main Shiny app script
+├── data/               # Wine datasets (.rmd files)
+└── README.md
+```
 
-Word Cloud
+---
 
-	1.	Frequency and Number of Words: Adjust the sliders to set the minimum frequency and maximum number of words for the word cloud.
-	2.	Above 90 Score Words: Click the “Most used main words from wine enthusiasts for above 90 score wines” button.
-	3.	Below 89 Score Words: Click the “Most used main words from wine enthusiasts for below 89 score wines” button.
-	4.	View Word Cloud: The word cloud will be displayed based on your settings.
+## ▶️ Getting Started
 
-Most Used Main Words by Critics
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/SETOsfk/wineapp.git
+   ```
+2. Open `app.R` in **RStudio**
+3. Install dependencies if needed:
+   ```r
+   install.packages(c("shiny", "tidyverse", "plotly", "caret", "shinyWidgets", "data.table"))
+   ```
+4. Run the app:
+   ```r
+   shiny::runApp()
+   ```
 
-	•	View value boxes showing the most used main words by critics for “Finish”, “Fruit”, and “Great”.
+---
 
-Explanation and Information
+## 📊 Dataset
 
-	•	Why system choose this?: View the interactive plot explaining the prediction.
-	•	How to understand critics?: Read additional information from the included markdown file.
+The app uses the **Wine Quality Dataset** available on UCI Machine Learning Repository, including physicochemical tests and quality scores for both **red and white** wines.
 
-Data
+- [Wine Quality Data (UCI)](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
-	•	Model: Pre-trained random forest model saved as model.rds.
-	•	Words: Data on wordcloud usage saved as words.rds.
-	•	Data Features: Data with reduced features saved as X_reduced.rds.
-	•	KNN: KNN Model for "Find Your Wine" section, saved as knn.rds.
+---
 
+## 📄 License
+
+This project is open-source and licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👤 Author
+
+**Sertan Şafak**  
+📧 [LinkedIn](https://www.linkedin.com/in/sertan-%C5%9Fafak-990a2a172/) • 🌐 [GitHub](https://github.com/SETOsfk)
+
+---
