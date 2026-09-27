@@ -1,0 +1,290 @@
+{
+ "quality": {
+  "n_wines": 14349,
+  "n_labels": 3428,
+  "n_producers": 2079,
+  "vintages": [
+   2000,
+   2016
+  ],
+  "share_90plus": 0.2971,
+  "n_descriptors": 985,
+  "descriptors_never_used": 369,
+  "descriptors_used_lt5": 508,
+  "wines_without_descriptors": 11,
+  "median_descriptors_per_wine": 10.0,
+  "names_with_encoding_damage": 13463,
+  "price_missing_share": 0.3213,
+  "appellation_unparsed": 0,
+  "style_counts": {
+   "red": 12408,
+   "white": 1259,
+   "sweet": 632,
+   "rosé": 50
+  },
+  "duplicate_name_year": 6,
+  "descriptors_used": 616,
+  "descriptors_sensory": 287,
+  "descriptors_descriptive": 329
+ },
+ "legacy_2024_pipeline": {
+  "selection_outside_cv": {
+   "accuracy": 0.8375,
+   "roc_auc": 0.893
+  },
+  "selection_inside_cv": {
+   "accuracy": 0.8336,
+   "roc_auc": 0.8891
+  },
+  "top45_selected_on_all_rows": [
+   "LONG",
+   "GREAT",
+   "MEDIUM-BODIED",
+   "LOVELY",
+   "FULL-BODIED",
+   "FIG",
+   "RICH",
+   "BLACKBERRY",
+   "BEAUTY",
+   "FLAVORS",
+   "FRUIT",
+   "PENCIL LEAD",
+   "RANGE",
+   "CHERRY",
+   "FINISH",
+   "CHARACTER",
+   "LIGHT-BODIED",
+   "PLUM",
+   "BLACK CURRANT",
+   "DENSE",
+   "APPLE",
+   "CORE",
+   "PURE",
+   "VELVET",
+   "RACY",
+   "GOOD",
+   "LENGTH",
+   "BOYSENBERRY",
+   "POWER",
+   "FRESH",
+   "TANNINS_MEDIUM",
+   "TOBACCO",
+   "SOLID",
+   "GORGEOUS",
+   "WARM",
+   "NICE",
+   "RIPE",
+   "GRIP",
+   "CREAM",
+   "LUSH",
+   "CURRANT",
+   "MINERAL",
+   "DARK",
+   "REFINED",
+   "RASPBERRY"
+  ]
+ },
+ "calibration": [
+  {
+   "features": "all",
+   "bin": 0,
+   "mean_pred": 0.028,
+   "observed": 0.0213,
+   "n": 7031
+  },
+  {
+   "features": "all",
+   "bin": 1,
+   "mean_pred": 0.1445,
+   "observed": 0.1527,
+   "n": 1395
+  },
+  {
+   "features": "all",
+   "bin": 2,
+   "mean_pred": 0.2464,
+   "observed": 0.2663,
+   "n": 845
+  },
+  {
+   "features": "all",
+   "bin": 3,
+   "mean_pred": 0.3487,
+   "observed": 0.3693,
+   "n": 639
+  },
+  {
+   "features": "all",
+   "bin": 4,
+   "mean_pred": 0.4468,
+   "observed": 0.5055,
+   "n": 550
+  },
+  {
+   "features": "all",
+   "bin": 5,
+   "mean_pred": 0.5494,
+   "observed": 0.5752,
+   "n": 532
+  },
+  {
+   "features": "all",
+   "bin": 6,
+   "mean_pred": 0.6501,
+   "observed": 0.6712,
+   "n": 511
+  },
+  {
+   "features": "all",
+   "bin": 7,
+   "mean_pred": 0.7507,
+   "observed": 0.7631,
+   "n": 553
+  },
+  {
+   "features": "all",
+   "bin": 8,
+   "mean_pred": 0.8539,
+   "observed": 0.8359,
+   "n": 707
+  },
+  {
+   "features": "all",
+   "bin": 9,
+   "mean_pred": 0.9648,
+   "observed": 0.9451,
+   "n": 1586
+  },
+  {
+   "features": "sensory",
+   "bin": 0,
+   "mean_pred": 0.0413,
+   "observed": 0.0324,
+   "n": 5314
+  },
+  {
+   "features": "sensory",
+   "bin": 1,
+   "mean_pred": 0.1459,
+   "observed": 0.1351,
+   "n": 1858
+  },
+  {
+   "features": "sensory",
+   "bin": 2,
+   "mean_pred": 0.2479,
+   "observed": 0.2848,
+   "n": 1352
+  },
+  {
+   "features": "sensory",
+   "bin": 3,
+   "mean_pred": 0.3511,
+   "observed": 0.3847,
+   "n": 1232
+  },
+  {
+   "features": "sensory",
+   "bin": 4,
+   "mean_pred": 0.4493,
+   "observed": 0.445,
+   "n": 1063
+  },
+  {
+   "features": "sensory",
+   "bin": 5,
+   "mean_pred": 0.5482,
+   "observed": 0.5805,
+   "n": 963
+  },
+  {
+   "features": "sensory",
+   "bin": 6,
+   "mean_pred": 0.6491,
+   "observed": 0.6512,
+   "n": 840
+  },
+  {
+   "features": "sensory",
+   "bin": 7,
+   "mean_pred": 0.7486,
+   "observed": 0.7139,
+   "n": 685
+  },
+  {
+   "features": "sensory",
+   "bin": 8,
+   "mean_pred": 0.8497,
+   "observed": 0.8357,
+   "n": 572
+  },
+  {
+   "features": "sensory",
+   "bin": 9,
+   "mean_pred": 0.9449,
+   "observed": 0.9255,
+   "n": 470
+  }
+ ],
+ "by_style": [
+  {
+   "style": "red",
+   "n": 12408,
+   "share_90plus": 0.2746,
+   "accuracy_all": 0.8773,
+   "accuracy_sensory": 0.8155,
+   "majority_baseline": 0.7254
+  },
+  {
+   "style": "rosé",
+   "n": 50,
+   "share_90plus": 0.0,
+   "accuracy_all": 1.0,
+   "accuracy_sensory": 1.0,
+   "majority_baseline": 1.0
+  },
+  {
+   "style": "sweet",
+   "n": 632,
+   "share_90plus": 0.606,
+   "accuracy_all": 0.8465,
+   "accuracy_sensory": 0.7405,
+   "majority_baseline": 0.606
+  },
+  {
+   "style": "white",
+   "n": 1259,
+   "share_90plus": 0.3757,
+   "accuracy_all": 0.8324,
+   "accuracy_sensory": 0.7427,
+   "majority_baseline": 0.6243
+  }
+ ],
+ "regression": {
+  "all": {
+   "mae": 1.378,
+   "spearman": 0.8606
+  },
+  "sensory": {
+   "mae": 1.72,
+   "spearman": 0.7565
+  },
+  "mean_baseline": {
+   "mae": 2.575
+  }
+ },
+ "price": {
+  "n_priced": 9739,
+  "spearman_price_score": 0.6354,
+  "median_price_by_band": {
+   "<=85": 17.0,
+   "86-89": 25.0,
+   "90-93": 44.0,
+   "94+": 144.0
+  }
+ },
+ "literature": {
+  "dong_2020_svm_accuracy_all_wines": 0.8697,
+  "source": "Dong et al. (2020) Beverages 6(1):5, doi:10.3390/beverages6010005"
+ }
+}

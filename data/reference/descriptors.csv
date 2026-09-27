@@ -1,0 +1,986 @@
+attribute,position,family,family_en,family_tr,label_en,label_tr
+BLOOD ORANGE,0,citrus,Citrus,Narenciye,Blood orange,Kan portakalı
+CITRUS,1,citrus,Citrus,Narenciye,Citrus,Narenciye
+CITRUS PEEL,2,citrus,Citrus,Narenciye,Citrus peel,
+CITRUS ZEST,3,citrus,Citrus,Narenciye,Citrus zest,
+CLEMENTINE,4,citrus,Citrus,Narenciye,Clementine,Klementin
+LIME,5,citrus,Citrus,Narenciye,Lime,Misket limonu
+GRAPEFRUIT,6,citrus,Citrus,Narenciye,Grapefruit,Greyfurt
+GRAPEFRUIT PEEL,7,citrus,Citrus,Narenciye,Grapefruit peel,
+ORANGE,8,citrus,Citrus,Narenciye,Orange,Portakal
+KEY LIME,9,citrus,Citrus,Narenciye,Key lime,
+LEMON,10,citrus,Citrus,Narenciye,Lemon,Limon
+LEMON MOUSSE,11,citrus,Citrus,Narenciye,Lemon mousse,
+LEMON PEEL,12,citrus,Citrus,Narenciye,Lemon peel,
+LEMON SEED,13,citrus,Citrus,Narenciye,Lemon seed,
+LEMON ZEST,14,citrus,Citrus,Narenciye,Lemon zest,
+LEMON-LIME,15,citrus,Citrus,Narenciye,Lemon-lime,
+LIME PEEL,16,citrus,Citrus,Narenciye,Lime peel,
+MARMALADE,17,citrus,Citrus,Narenciye,Marmalade,
+ORANGE CREAM,18,citrus,Citrus,Narenciye,Orange cream,
+ORANGE PEEL,19,citrus,Citrus,Narenciye,Orange peel,
+ORANGE ZEST,20,citrus,Citrus,Narenciye,Orange zest,
+RED GRAPEFRUIT,21,citrus,Citrus,Narenciye,Red grapefruit,
+TANGERINE,22,citrus,Citrus,Narenciye,Tangerine,Mandalina
+ACAI BERRY,23,berry,Berries,Orman meyveleri,Acai berry,
+BERRY,24,berry,Berries,Orman meyveleri,Berry,Orman meyvesi
+BILBERRY,25,berry,Berries,Orman meyveleri,Bilberry,
+BLACK CURRANT,26,berry,Berries,Orman meyveleri,Black currant,Siyah frenk üzümü
+BLACK CURRANT CONFITURE,27,berry,Berries,Orman meyveleri,Black currant confiture,
+BLACK RASPBERRY,28,berry,Berries,Orman meyveleri,Black raspberry,
+BLACKBERRY,29,berry,Berries,Orman meyveleri,Blackberry,Böğürtlen
+BLACKBERRY CONFITURE,30,berry,Berries,Orman meyveleri,Blackberry confiture,
+BLUEBERRY,31,berry,Berries,Orman meyveleri,Blueberry,Yaban mersini
+BLUEBERRY CREAM,32,berry,Berries,Orman meyveleri,Blueberry cream,
+BOYSENBERRY,33,berry,Berries,Orman meyveleri,Boysenberry,Boysen böğürtleni
+BRAMBLEBERRY,34,berry,Berries,Orman meyveleri,Brambleberry,
+CRANBERRY,35,berry,Berries,Orman meyveleri,Cranberry,
+RASPBERRY,36,berry,Berries,Orman meyveleri,Raspberry,Ahududu
+CURRANT,37,berry,Berries,Orman meyveleri,Currant,Frenk üzümü
+DARK BERRY,38,berry,Berries,Orman meyveleri,Dark berry,
+DARK BLUEBERRY,39,berry,Berries,Orman meyveleri,Dark blueberry,
+DARK CURRANT,40,berry,Berries,Orman meyveleri,Dark currant,
+HUCKLEBERRY,41,berry,Berries,Orman meyveleri,Huckleberry,
+GOOSEBERRY,42,berry,Berries,Orman meyveleri,Gooseberry,Bektaşi üzümü
+LOGANBERRY,43,berry,Berries,Orman meyveleri,Loganberry,Logan böğürtleni
+MULBERRY,44,berry,Berries,Orman meyveleri,Mulberry,
+OLALLIEBERRY,45,berry,Berries,Orman meyveleri,Olallieberry,
+RASPBERRY TART,46,berry,Berries,Orman meyveleri,Raspberry tart,
+RED BERRY,47,berry,Berries,Orman meyveleri,Red berry,
+RED CURRANT,48,berry,Berries,Orman meyveleri,Red currant,
+STRAWBERRY,49,berry,Berries,Orman meyveleri,Strawberry,Çilek
+WHITE CURRANT,50,berry,Berries,Orman meyveleri,White currant,
+BLACK FRUIT,51,fruit_general,Fruit (general),Meyve (genel),Black fruit,Siyah meyve
+BLUE FRUITS,52,fruit_general,Fruit (general),Meyve (genel),Blue fruits,
+DARK FRUIT,53,fruit_general,Fruit (general),Meyve (genel),Dark fruit,Koyu meyve
+EXOTIC FRUIT,54,fruit_general,Fruit (general),Meyve (genel),Exotic fruit,
+FRUIT,55,fruit_general,Fruit (general),Meyve (genel),Fruit,Meyve
+RED FRUIT,56,fruit_general,Fruit (general),Meyve (genel),Red fruit,
+SWEET FRUIT,57,fruit_general,Fruit (general),Meyve (genel),Sweet fruit,
+TROPICAL FRUIT,58,fruit_general,Fruit (general),Meyve (genel),Tropical fruit,
+WHITE FRUIT,59,fruit_general,Fruit (general),Meyve (genel),White fruit,
+APPLE,60,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Apple,Elma
+APPLE PIE,61,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Apple pie,
+APPLE TART,62,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Apple tart,
+APPLE TARTE TATIN,63,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Apple tarte tatin,
+APRICOT,64,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Apricot,Kayısı
+BAKED APPLE,65,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Baked apple,
+BAKED PEACH,66,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Baked peach,
+BLACK CHERRY,67,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Black cherry,Siyah kiraz
+BLACK CHERRY COMPOTE,68,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Black cherry compote,
+BLACK CHERRY COULIS,69,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Black cherry coulis,
+BLACK CHERRY PUREE,70,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Black cherry puree,
+CHERRY,71,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Cherry,Kiraz
+COOKED APPLE,72,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Cooked apple,
+DARK RED CHERRY,73,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Dark red cherry,
+DATE,74,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Date,
+FUJI APPLE,75,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Fuji apple,
+GOLDEN APPLE,76,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Golden apple,
+GOLDEN DELICIOUS APPLE,77,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Golden delicious apple,
+GRAPE,78,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Grape,Üzüm
+GREEN APPLE,79,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Green apple,
+GUAVA,80,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Guava,
+JONAGOLD APPLE,81,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Jonagold apple,
+KUMQUAT,82,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Kumquat,
+NECTARINE,83,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Nectarine,Nektarin
+PERSIMMON,84,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Persimmon,Trabzon hurması
+RED APPLE,85,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Red apple,
+RED PEACH,86,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Red peach,
+ROASTED APPLE,87,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Roasted apple,
+ROASTED PINEAPPLE,88,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Roasted pineapple,
+WHITE CHERRY,89,tree_fruit,Tree & stone fruit,Ağaç meyveleri,White cherry,
+YELLOW APPLE,90,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Yellow apple,Sarı elma
+ASIAN PEAR,91,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Asian pear,
+BAKED PEAR,92,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Baked pear,
+BANANA,93,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Banana,
+CANTALOUPE,94,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Cantaloupe,
+PLUM,95,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Plum,Erik
+RED PLUM,96,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Red plum,
+DAMSON,97,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Damson,Mürdüm eriği
+PEAR,98,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Pear,Armut
+HONEYDEW MELON,99,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Honeydew melon,
+PEACH,100,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Peach,Şeftali
+MELON,101,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Melon,Kavun
+PINEAPPLE,102,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Pineapple,Ananas
+LYCHEE,103,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Lychee,
+MACERATED PLUM,104,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Macerated plum,
+MANGO,105,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Mango,Mango
+PASSION FRUIT,106,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Passion fruit,
+PLUM CAKE,107,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Plum cake,
+PLUM JAM,108,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Plum jam,
+PLUM PASTE,109,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Plum paste,
+PLUM SKIN,110,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Plum skin,Erik kabuğu
+PLUM TART,111,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Plum tart,
+POMEGRANATE,112,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Pomegranate,Nar
+QUINCE,113,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Quince,Ayva
+STEEPED PLUM,114,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Steeped plum,
+TOASTED COCONUT,115,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Toasted coconut,Kavrulmuş hindistancevizi
+WHITE PEACH,116,tree_fruit,Tree & stone fruit,Ağaç meyveleri,White peach,
+YELLOW MELON,117,tree_fruit,Tree & stone fruit,Ağaç meyveleri,Yellow melon,
+BLACK FIG,118,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Black fig,Siyah incir
+MISSION FIG,119,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Mission fig,
+BLACKBERRY JAM,120,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Blackberry jam,
+BLACKBERRY PASTE,121,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Blackberry paste,
+BLUEBERRY JAM,122,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Blueberry jam,
+BRAISED FIG,123,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Braised fig,Pişmiş incir
+CHERRY PIE,124,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Cherry pie,
+CHERRY SAUCE,125,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Cherry sauce,
+CREAMY FIG,126,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Creamy fig,
+CRUSHED FIG,127,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Crushed fig,Ezilmiş incir
+CURRANT CONFITURE,128,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Currant confiture,
+DARK FIG SAUCE,129,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dark fig sauce,
+DRIED APRICOT,130,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried apricot,
+DRIED BERRY,131,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried berry,
+DRIED BLUEBERRY,132,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried blueberry,
+DRIED CHERRY,133,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried cherry,
+DRIED CURRANT,134,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried currant,
+DRIED DARK BERRY,135,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried dark berry,
+DRIED FRUIT,136,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried fruit,
+DRIED LYCHEE,137,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried lychee,
+DRIED ORANGE PEEL,138,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried orange peel,
+DRIED PEACH,139,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried peach,
+DRIED RASPBERRY,140,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried raspberry,
+DRIED RED BERRY,141,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried red berry,
+DRIED TOMATO,142,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Dried tomato,
+FIG,143,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Fig,İncir
+FIG BREAD,144,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Fig bread,
+FIG PASTE,145,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Fig paste,
+FIG SAUCE,146,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Fig sauce,
+FIG TAPENADE,147,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Fig tapenade,
+FRUIT CAKE,148,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Fruit cake,Meyveli kek
+GLAZED APRICOT,149,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Glazed apricot,
+GLAZED PEAR,150,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Glazed pear,
+GREEN FIG,151,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Green fig,
+JAM,152,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Jam,Reçel
+JAMMY BERRY,153,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Jammy berry,
+JAMMY KIRSCH,154,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Jammy kirsch,
+JAMMY PLUM,155,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Jammy plum,
+LEMON CURD,156,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Lemon curd,
+LEMON CUSTARD,157,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Lemon custard,
+LINNER TORTE,158,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Linner torte,
+MANGO PUREE,159,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Mango puree,
+OLIVE PASTE,160,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Olive paste,
+PEACH COBBLER,161,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Peach cobbler,
+PEACH STRUDEL,162,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Peach strudel,
+PEAR TART,163,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Pear tart,
+PLUM PUDDING,164,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Plum pudding,
+PLUM SAUCE,165,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Plum sauce,
+PRUNE,166,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Prune,Kuru erik
+QUINCE PIE,167,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Quince pie,
+RAISIN,168,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Raisin,Kuru üzüm
+RASPBERRY JAM,169,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Raspberry jam,
+RED CURRANT PASTE,170,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Red currant paste,
+ROASTED FIG,171,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Roasted fig,
+ROASTED PLUM,172,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Roasted plum,
+SMOKY FIG,173,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Smoky fig,
+STRAWBERRY JAM,174,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Strawberry jam,
+TOASTED APPLE,175,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Toasted apple,
+TOASTY BERRY COBBLER,176,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Toasty berry cobbler,
+BLACKBERRY SAUCE,177,dried_fruit,Dried & cooked fruit,Kuru ve pişmiş meyve,Blackberry sauce,
+ARTIFICIAL FRUIT,178,candied,Candied & kirsch,Şekerleme,Artificial fruit,
+BLACK CURRANT CANDY,179,candied,Candied & kirsch,Şekerleme,Black currant candy,
+BLACKBERRY CANDY,180,candied,Candied & kirsch,Şekerleme,Blackberry candy,
+BUBBLE GUM,181,candied,Candied & kirsch,Şekerleme,Bubble gum,
+CANDIED BERRY,182,candied,Candied & kirsch,Şekerleme,Candied berry,
+CANDIED CITRUS,183,candied,Candied & kirsch,Şekerleme,Candied citrus,
+CANDIED FRUIT,184,candied,Candied & kirsch,Şekerleme,Candied fruit,
+CANDIED LEMON PEEL,185,candied,Candied & kirsch,Şekerleme,Candied lemon peel,
+HUCKLEBERRY PIE,186,candied,Candied & kirsch,Şekerleme,Huckleberry pie,
+KEY LIME PIE,187,candied,Candied & kirsch,Şekerleme,Key lime pie,
+KIRSCH,188,candied,Candied & kirsch,Şekerleme,Kirsch,Kirsch (kiraz likörü)
+METHYL ANTHRANILATE,189,candied,Candied & kirsch,Şekerleme,Methyl anthranilate,
+RASPBERRY GANACHE,190,candied,Candied & kirsch,Şekerleme,Raspberry ganache,
+YEAST,191,yeast_dairy,Yeast & dairy,Maya ve süt,Yeast,
+BISCUIT,192,yeast_dairy,Yeast & dairy,Maya ve süt,Biscuit,
+BRIOCHE,193,yeast_dairy,Yeast & dairy,Maya ve süt,Brioche,Brioş
+LEESY,194,yeast_dairy,Yeast & dairy,Maya ve süt,Leesy,
+CREAM,195,yeast_dairy,Yeast & dairy,Maya ve süt,Cream,Krema
+CREME BRULEE,196,yeast_dairy,Yeast & dairy,Maya ve süt,Creme brulee,
+MASCARPONE,197,yeast_dairy,Yeast & dairy,Maya ve süt,Mascarpone,
+SAUERKRAUT,198,yeast_dairy,Yeast & dairy,Maya ve süt,Sauerkraut,
+SWEATY,199,yeast_dairy,Yeast & dairy,Maya ve süt,Sweaty,
+YOGHURT,200,yeast_dairy,Yeast & dairy,Maya ve süt,Yoghurt,
+BOTRYTIS,201,animal,Botrytis & leather,Botritis ve deri,Botrytis,Botritis (soylu küf)
+HORSEY,202,animal,Botrytis & leather,Botritis ve deri,Horsey,
+LANOLIN,203,animal,Botrytis & leather,Botritis ve deri,Lanolin,
+LEATHER,204,animal,Botrytis & leather,Botritis ve deri,Leather,Deri
+MOUSEY,205,animal,Botrytis & leather,Botritis ve deri,Mousey,
+BRIAR,206,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Briar,Çalılık
+CELERY,207,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Celery,
+CHAMOMILE,208,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Chamomile,Papatya
+CHIVE,209,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Chive,Frenk soğanı
+CITRUS BLOSSOM,210,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Citrus blossom,
+CLOVE,211,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Clove,Karanfil
+LAVENDER,212,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Lavender,
+DRIED FLOWERS,213,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Dried flowers,Kuru çiçek
+DRIED LAVENDER,214,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Dried lavender,
+DRIED ROSES,215,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Dried roses,
+FENNEL,216,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Fennel,Rezene
+FLORAL,217,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Floral,Çiçeksi
+ORCHIDS,218,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Orchids,
+GARRIGUE,219,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Garrigue,
+GERANIUM,220,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Geranium,
+HONEYSUCKLE,221,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Honeysuckle,Hanımeli
+JASMINE,222,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Jasmine,
+LEAF,223,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Leaf,Yaprak
+LEMON BLOSSOM,224,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Lemon blossom,
+LILAC,225,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Lilac,Leylak
+LIME BLOSSOM,226,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Lime blossom,
+ORANGE BLOSSOM,227,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Orange blossom,
+PEONY,228,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Peony,
+PINE,229,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Pine,
+PLANTAIN,230,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Plantain,
+RHUBARB,231,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Rhubarb,Ravent
+ROSE,232,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Rose,Gül
+ROSE WATER,233,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Rose water,
+SUNCHOKE,234,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Sunchoke,
+SWEET CORN,235,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Sweet corn,
+TARRAGON,236,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Tarragon,Tarhun
+TEA ROSE,237,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Tea rose,
+TOBACCO LEAF,238,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Tobacco leaf,
+UNDERBRUSH,239,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Underbrush,
+VERBENA,240,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Verbena,Limon otu
+VIOLET,241,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Violet,Menekşe
+CHESTNUT LEAF,242,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Chestnut leaf,
+WHITE FLOWERS,243,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,White flowers,
+WILTED ROSE,244,floral_herbaceous,Floral & leafy,Çiçeksi ve yapraksı,Wilted rose,
+ANISE,245,spice,Spice,Baharat,Anise,Anason
+ASIAN SPICE,246,spice,Spice,Baharat,Asian spice,
+SPICE,247,spice,Spice,Baharat,Spice,Baharat
+BAKING SPICE,248,spice,Spice,Baharat,Baking spice,
+BLACK LICORICE,249,spice,Spice,Baharat,Black licorice,Siyah meyankökü
+BLACK PEPPER,250,spice,Spice,Baharat,Black pepper,
+BROWN BREAD,251,spice,Spice,Baharat,Brown bread,
+BROWN SPICE,252,spice,Spice,Baharat,Brown spice,
+CINNAMON,253,spice,Spice,Baharat,Cinnamon,Tarçın
+CINNAMON BREAD,254,spice,Spice,Baharat,Cinnamon bread,
+CURRY,255,spice,Spice,Baharat,Curry,
+DATE-NUT BREAD,256,spice,Spice,Baharat,Date-nut bread,
+DOUGHY,257,spice,Spice,Baharat,Doughy,
+EXOTIC SPICE,258,spice,Spice,Baharat,Exotic spice,
+FLEUR DE SEL,259,spice,Spice,Baharat,Fleur de sel,Deniz tuzu
+GINGER,260,spice,Spice,Baharat,Ginger,Zencefil
+GRILLED PEPPER,261,spice,Spice,Baharat,Grilled pepper,
+GROUND SPICE,262,spice,Spice,Baharat,Ground spice,
+STAR ANISE,263,spice,Spice,Baharat,Star anise,
+PEPPER,264,spice,Spice,Baharat,Pepper,Biber
+NUTMEG,265,spice,Spice,Baharat,Nutmeg,
+INDIAN SPICES,266,spice,Spice,Baharat,Indian spices,Hint baharatları
+LICORICE,267,spice,Spice,Baharat,Licorice,Meyankökü
+MACE,268,spice,Spice,Baharat,Mace,
+MULLED SPICE,269,spice,Spice,Baharat,Mulled spice,Sıcak şarap baharatı
+PAPRIKA,270,spice,Spice,Baharat,Paprika,
+PASTIS,271,spice,Spice,Baharat,Pastis,Pastis (anason)
+RED LICORICE,272,spice,Spice,Baharat,Red licorice,
+RED PEPPER,273,spice,Spice,Baharat,Red pepper,
+ROASTED RED PEPPER,274,spice,Spice,Baharat,Roasted red pepper,
+ROASTED VANILLA,275,spice,Spice,Baharat,Roasted vanilla,Kavrulmuş vanilya
+ROASTED WOOD SPICE,276,spice,Spice,Baharat,Roasted wood spice,
+ROSEMARY,277,spice,Spice,Baharat,Rosemary,
+SEA SALT,278,spice,Spice,Baharat,Sea salt,
+SINGED WOOD SPICE,279,spice,Spice,Baharat,Singed wood spice,
+SMOKY CRACKED PEPPER,280,spice,Spice,Baharat,Smoky cracked pepper,
+SPICE CAKE,281,spice,Spice,Baharat,Spice cake,
+SPICY,282,spice,Spice,Baharat,Spicy,
+SPICY OAK,283,spice,Spice,Baharat,Spicy oak,
+SWEET PEPPERS,284,spice,Spice,Baharat,Sweet peppers,
+SWEET SPICE,285,spice,Spice,Baharat,Sweet spice,
+TOASTY SAGE,286,spice,Spice,Baharat,Toasty sage,
+TOASTY SPICE,287,spice,Spice,Baharat,Toasty spice,
+WHITE PEPPER,288,spice,Spice,Baharat,White pepper,
+TANNINS_HIGH,289,tannin,Tannins,Tanen,High tannins,Yüksek tanen
+TANNINS_MEDIUM,290,tannin,Tannins,Tanen,Medium tannins,Orta tanen
+TANNINS_MED,291,tannin,Tannins,Tanen,Medium tannins,Orta tanen
+TANNINS_LOW,292,tannin,Tannins,Tanen,Low tannins,Düşük tanen
+CORE,293,body,Body & structure,Gövde ve yapı,Core,Yoğun çekirdek
+DARK RED,294,body,Body & structure,Gövde ve yapı,Dark red,
+DARK RUBY,295,body,Body & structure,Gövde ve yapı,Dark ruby,Koyu yakut
+DARK-WINE,296,body,Body & structure,Gövde ve yapı,Dark-wine,
+DEEP PURPLE,297,body,Body & structure,Gövde ve yapı,Deep purple,
+DEEPLY COLORED,298,body,Body & structure,Gövde ve yapı,Deeply colored,
+DENSE,299,body,Body & structure,Gövde ve yapı,Dense,Yoğun
+FLINTY WHITE,300,body,Body & structure,Gövde ve yapı,Flinty white,
+FRAME,301,body,Body & structure,Gövde ve yapı,Frame,Sağlam çatı
+FULL-BODIED,302,body,Body & structure,Gövde ve yapı,Full-bodied,Dolgun gövde
+GOLDEN YELLOW,303,body,Body & structure,Gövde ve yapı,Golden yellow,
+LIGHT-BODIED,304,body,Body & structure,Gövde ve yapı,Light-bodied,Hafif gövde
+MEDIUM-BODIED,305,body,Body & structure,Gövde ve yapı,Medium-bodied,Orta gövde
+MEDIUM-FULL-BODIED,306,body,Body & structure,Gövde ve yapı,Medium-full-bodied,
+NICELY WOUND,307,body,Body & structure,Gövde ve yapı,Nicely wound,
+PURPLE,308,body,Body & structure,Gövde ve yapı,Purple,
+RED,309,body,Body & structure,Gövde ve yapı,Red,Kırmızı
+ROUND,310,body,Body & structure,Gövde ve yapı,Round,Yuvarlak
+SOLID,311,body,Body & structure,Gövde ve yapı,Solid,Sağlam
+WINE_WEIGHT,312,body,Body & structure,Gövde ve yapı,Weight,Ağırlık
+WHITE,313,body,Body & structure,Gövde ve yapı,White,Beyaz
+YELLOW,314,body,Body & structure,Gövde ve yapı,Yellow,Sarı
+YELLOW-GOLD,315,body,Body & structure,Gövde ve yapı,Yellow-gold,
+WELL-STRUCTURED,316,body,Body & structure,Gövde ve yapı,Well-structured,İyi yapılanmış
+CONCENTRATED,317,body,Body & structure,Gövde ve yapı,Concentrated,Konsantre
+ACIDITY_LOW,318,acidity,Acidity,Asidite,Low acidity,Düşük asidite
+ACIDITY_HIGH,319,acidity,Acidity,Asidite,High acidity,
+ACIDITY_MEDIUM,320,acidity,Acidity,Asidite,Medium acidity,
+FINISH,321,finish,Finish,Bitiş,Finish,Bitiş
+LONG FINISH,322,finish,Finish,Bitiş,Long finish,Uzun bitiş
+EXCELLENT FINISH,323,finish,Finish,Bitiş,Excellent finish,Mükemmel bitiş
+STRONG FINISH,324,finish,Finish,Bitiş,Strong finish,
+WEAK FINISH,325,finish,Finish,Bitiş,Weak finish,Zayıf bitiş
+ACCENTS,326,descriptive,Descriptive terms,Betimleyici terimler,Accents,Vurgular
+BEAUTY,327,descriptive,Descriptive terms,Betimleyici terimler,Beauty,Güzellik
+AGE WELL,328,descriptive,Descriptive terms,Betimleyici terimler,Age well,
+AIRY,329,descriptive,Descriptive terms,Betimleyici terimler,Airy,
+ALLURING,330,descriptive,Descriptive terms,Betimleyici terimler,Alluring,Cezbedici
+AMAZING,331,descriptive,Descriptive terms,Betimleyici terimler,Amazing,
+AMBITIOUS,332,descriptive,Descriptive terms,Betimleyici terimler,Ambitious,
+AMPLE,333,descriptive,Descriptive terms,Betimleyici terimler,Ample,Bol
+INTENSE,334,descriptive,Descriptive terms,Betimleyici terimler,Intense,Yoğun
+ANGLES,335,descriptive,Descriptive terms,Betimleyici terimler,Angles,
+APPEALING,336,descriptive,Descriptive terms,Betimleyici terimler,Appealing,
+APPEALINGLY,337,descriptive,Descriptive terms,Betimleyici terimler,Appealingly,
+APPROACHABLE,338,descriptive,Descriptive terms,Betimleyici terimler,Approachable,Kolay içimli
+ARISTOCRATIC,339,descriptive,Descriptive terms,Betimleyici terimler,Aristocratic,
+AROMA,340,descriptive,Descriptive terms,Betimleyici terimler,Aroma,
+AROMATIC,341,descriptive,Descriptive terms,Betimleyici terimler,Aromatic,
+ARRAY OF FLAVORS,342,descriptive,Descriptive terms,Betimleyici terimler,Array of flavors,
+ASTRINGENCY,343,descriptive,Descriptive terms,Betimleyici terimler,Astringency,
+ATTRACTIVE,344,descriptive,Descriptive terms,Betimleyici terimler,Attractive,Çekici
+AUSTERE,345,descriptive,Descriptive terms,Betimleyici terimler,Austere,Sert
+AUTHENTICITY,346,descriptive,Descriptive terms,Betimleyici terimler,Authenticity,
+AWESOME,347,descriptive,Descriptive terms,Betimleyici terimler,Awesome,
+BACKWARD,348,descriptive,Descriptive terms,Betimleyici terimler,Backward,
+BALANCE,349,descriptive,Descriptive terms,Betimleyici terimler,Balance,Denge
+BEAM,350,descriptive,Descriptive terms,Betimleyici terimler,Beam,Parıltı
+BEGUILING,351,descriptive,Descriptive terms,Betimleyici terimler,Beguiling,
+GREAT,352,descriptive,Descriptive terms,Betimleyici terimler,Great,Harika
+BIG,353,descriptive,Descriptive terms,Betimleyici terimler,Big,Büyük
+BITTER,354,descriptive,Descriptive terms,Betimleyici terimler,Bitter,Acı
+BITTERNESS,355,descriptive,Descriptive terms,Betimleyici terimler,Bitterness,
+BITTERSWEET,356,descriptive,Descriptive terms,Betimleyici terimler,Bittersweet,
+BLOCKBUSTER,357,descriptive,Descriptive terms,Betimleyici terimler,Blockbuster,
+BOLD,358,descriptive,Descriptive terms,Betimleyici terimler,Bold,
+BOUNCY,359,descriptive,Descriptive terms,Betimleyici terimler,Bouncy,
+BRACING,360,descriptive,Descriptive terms,Betimleyici terimler,Bracing,
+BRANDIED,361,descriptive,Descriptive terms,Betimleyici terimler,Brandied,
+BRAWNY,362,descriptive,Descriptive terms,Betimleyici terimler,Brawny,
+BREATHTAKING,363,descriptive,Descriptive terms,Betimleyici terimler,Breathtaking,
+BRICK HOUSE,364,descriptive,Descriptive terms,Betimleyici terimler,Brick house,
+BRIGHT,365,descriptive,Descriptive terms,Betimleyici terimler,Bright,Canlı
+BRILLIANCE,366,descriptive,Descriptive terms,Betimleyici terimler,Brilliance,
+BRIMMING,367,descriptive,Descriptive terms,Betimleyici terimler,Brimming,
+BRINY,368,descriptive,Descriptive terms,Betimleyici terimler,Briny,
+BRISK,369,descriptive,Descriptive terms,Betimleyici terimler,Brisk,Diri
+BROAD,370,descriptive,Descriptive terms,Betimleyici terimler,Broad,Geniş
+BROODING,371,descriptive,Descriptive terms,Betimleyici terimler,Brooding,
+BROODING GIANT,372,descriptive,Descriptive terms,Betimleyici terimler,Brooding giant,
+BROUGHT INTO FOCUS,373,descriptive,Descriptive terms,Betimleyici terimler,Brought into focus,
+BUBBLY,374,descriptive,Descriptive terms,Betimleyici terimler,Bubbly,
+BUILDS NICELY,375,descriptive,Descriptive terms,Betimleyici terimler,Builds nicely,
+BUILT TO LAST,376,descriptive,Descriptive terms,Betimleyici terimler,Built to last,
+CARESS,377,descriptive,Descriptive terms,Betimleyici terimler,Caress,Okşayıcı
+CASHMERE,378,descriptive,Descriptive terms,Betimleyici terimler,Cashmere,
+CHARACTER,379,descriptive,Descriptive terms,Betimleyici terimler,Character,Karakter
+CHARMING,380,descriptive,Descriptive terms,Betimleyici terimler,Charming,
+CHISELED,381,descriptive,Descriptive terms,Betimleyici terimler,Chiseled,
+CLARITY,382,descriptive,Descriptive terms,Betimleyici terimler,Clarity,
+CLASS,383,descriptive,Descriptive terms,Betimleyici terimler,Class,
+CLASSIC,384,descriptive,Descriptive terms,Betimleyici terimler,Classic,
+CLEAN,385,descriptive,Descriptive terms,Betimleyici terimler,Clean,Temiz
+CLEAR,386,descriptive,Descriptive terms,Betimleyici terimler,Clear,
+CLOSED,387,descriptive,Descriptive terms,Betimleyici terimler,Closed,
+CLOSELY KNIT,388,descriptive,Descriptive terms,Betimleyici terimler,Closely knit,
+CLOSURES,389,descriptive,Descriptive terms,Betimleyici terimler,Closures,
+COHESIVE,390,descriptive,Descriptive terms,Betimleyici terimler,Cohesive,
+COMPACT,391,descriptive,Descriptive terms,Betimleyici terimler,Compact,
+COMPELLING,392,descriptive,Descriptive terms,Betimleyici terimler,Compelling,
+COMPLEMENT,393,descriptive,Descriptive terms,Betimleyici terimler,Complement,
+COMPLEX,394,descriptive,Descriptive terms,Betimleyici terimler,Complex,
+CONSISTENT,395,descriptive,Descriptive terms,Betimleyici terimler,Consistent,Tutarlı
+CONTROL,396,descriptive,Descriptive terms,Betimleyici terimler,Control,
+CRACKLING,397,descriptive,Descriptive terms,Betimleyici terimler,Crackling,
+CRISP,398,descriptive,Descriptive terms,Betimleyici terimler,Crisp,Ferah
+CRUNCH,399,descriptive,Descriptive terms,Betimleyici terimler,Crunch,
+CUT,400,descriptive,Descriptive terms,Betimleyici terimler,Cut,Keskinlik
+DANCE,401,descriptive,Descriptive terms,Betimleyici terimler,Dance,
+DARK,402,descriptive,Descriptive terms,Betimleyici terimler,Dark,Koyu
+DASH,403,descriptive,Descriptive terms,Betimleyici terimler,Dash,
+DAZZLING,404,descriptive,Descriptive terms,Betimleyici terimler,Dazzling,
+DECADENT,405,descriptive,Descriptive terms,Betimleyici terimler,Decadent,
+DECEPTIVELY,406,descriptive,Descriptive terms,Betimleyici terimler,Deceptively,
+DEEP,407,descriptive,Descriptive terms,Betimleyici terimler,Deep,
+DEFINED,408,descriptive,Descriptive terms,Betimleyici terimler,Defined,Belirgin
+DEFT,409,descriptive,Descriptive terms,Betimleyici terimler,Deft,
+DEFTNESS,410,descriptive,Descriptive terms,Betimleyici terimler,Deftness,
+DELICACY,411,descriptive,Descriptive terms,Betimleyici terimler,Delicacy,
+DELICATE,412,descriptive,Descriptive terms,Betimleyici terimler,Delicate,Narin
+DELICIOUS,413,descriptive,Descriptive terms,Betimleyici terimler,Delicious,Lezzetli
+DELIVERS,414,descriptive,Descriptive terms,Betimleyici terimler,Delivers,Tatmin edici
+DEPENDABILITY,415,descriptive,Descriptive terms,Betimleyici terimler,Dependability,
+DEPTH,416,descriptive,Descriptive terms,Betimleyici terimler,Depth,Derinlik
+DETAILED,417,descriptive,Descriptive terms,Betimleyici terimler,Detailed,
+DEVELOP,418,descriptive,Descriptive terms,Betimleyici terimler,Develop,
+DIMENSION,419,descriptive,Descriptive terms,Betimleyici terimler,Dimension,
+DISGUISING,420,descriptive,Descriptive terms,Betimleyici terimler,Disguising,
+DISPLAYED,421,descriptive,Descriptive terms,Betimleyici terimler,Displayed,
+DISTINCT,422,descriptive,Descriptive terms,Betimleyici terimler,Distinct,
+DISTRIBUTED,423,descriptive,Descriptive terms,Betimleyici terimler,Distributed,
+DOCILE,424,descriptive,Descriptive terms,Betimleyici terimler,Docile,
+DOMINATE,425,descriptive,Descriptive terms,Betimleyici terimler,Dominate,
+DRAMATIC,426,descriptive,Descriptive terms,Betimleyici terimler,Dramatic,
+DRIPPING,427,descriptive,Descriptive terms,Betimleyici terimler,Dripping,
+DRIVE,428,descriptive,Descriptive terms,Betimleyici terimler,Drive,Enerji
+DRY,429,descriptive,Descriptive terms,Betimleyici terimler,Dry,
+DUSKY,430,descriptive,Descriptive terms,Betimleyici terimler,Dusky,
+DYNAMIC,431,descriptive,Descriptive terms,Betimleyici terimler,Dynamic,
+ECHO,432,descriptive,Descriptive terms,Betimleyici terimler,Echo,
+EFFORTLESS,433,descriptive,Descriptive terms,Betimleyici terimler,Effortless,
+EFFUSIVE,434,descriptive,Descriptive terms,Betimleyici terimler,Effusive,
+ELECTRIC,435,descriptive,Descriptive terms,Betimleyici terimler,Electric,
+ELEGANT,436,descriptive,Descriptive terms,Betimleyici terimler,Elegant,Zarif
+EMERGE FULLY,437,descriptive,Descriptive terms,Betimleyici terimler,Emerge fully,
+ENCORE,438,descriptive,Descriptive terms,Betimleyici terimler,Encore,
+ENGAGING,439,descriptive,Descriptive terms,Betimleyici terimler,Engaging,
+ENLIVENED,440,descriptive,Descriptive terms,Betimleyici terimler,Enlivened,
+ENORMOUS,441,descriptive,Descriptive terms,Betimleyici terimler,Enormous,
+ENTICING,442,descriptive,Descriptive terms,Betimleyici terimler,Enticing,Davetkâr
+ETHEREAL,443,descriptive,Descriptive terms,Betimleyici terimler,Ethereal,
+EXCELLENT,444,descriptive,Descriptive terms,Betimleyici terimler,Excellent,
+EXCEPTIONAL,445,descriptive,Descriptive terms,Betimleyici terimler,Exceptional,
+EXCITING,446,descriptive,Descriptive terms,Betimleyici terimler,Exciting,
+EXOTIC,447,descriptive,Descriptive terms,Betimleyici terimler,Exotic,
+EXPAND,448,descriptive,Descriptive terms,Betimleyici terimler,Expand,
+EXPLODE,449,descriptive,Descriptive terms,Betimleyici terimler,Explode,
+EXPRESSIVE,450,descriptive,Descriptive terms,Betimleyici terimler,Expressive,
+EXQUISITE,451,descriptive,Descriptive terms,Betimleyici terimler,Exquisite,
+EXTEND,452,descriptive,Descriptive terms,Betimleyici terimler,Extend,
+EXTRAORDINARY,453,descriptive,Descriptive terms,Betimleyici terimler,Extraordinary,
+EXTROVERTED,454,descriptive,Descriptive terms,Betimleyici terimler,Extroverted,
+EXUBERANT,455,descriptive,Descriptive terms,Betimleyici terimler,Exuberant,
+FABULOUS,456,descriptive,Descriptive terms,Betimleyici terimler,Fabulous,
+FANTASTIC,457,descriptive,Descriptive terms,Betimleyici terimler,Fantastic,
+FASCINATING,458,descriptive,Descriptive terms,Betimleyici terimler,Fascinating,
+FAT,459,descriptive,Descriptive terms,Betimleyici terimler,Fat,
+FINE,460,descriptive,Descriptive terms,Betimleyici terimler,Fine,İnce
+FINELY PROPORTIONED,461,descriptive,Descriptive terms,Betimleyici terimler,Finely proportioned,
+FINELY SCULPTED,462,descriptive,Descriptive terms,Betimleyici terimler,Finely sculpted,
+FINESSE,463,descriptive,Descriptive terms,Betimleyici terimler,Finesse,
+FIRM,464,descriptive,Descriptive terms,Betimleyici terimler,Firm,Sıkı
+FLAMBOYANT,465,descriptive,Descriptive terms,Betimleyici terimler,Flamboyant,
+FLASHY,466,descriptive,Descriptive terms,Betimleyici terimler,Flashy,
+FLATTERING,467,descriptive,Descriptive terms,Betimleyici terimler,Flattering,Hoşa giden
+FLAVORFUL,468,descriptive,Descriptive terms,Betimleyici terimler,Flavorful,
+FLAVORS,469,descriptive,Descriptive terms,Betimleyici terimler,Flavors,Aromalar
+PERSIST,470,descriptive,Descriptive terms,Betimleyici terimler,Persist,Kalıcı
+FLESH,471,descriptive,Descriptive terms,Betimleyici terimler,Flesh,Etli doku
+FLOWING,472,descriptive,Descriptive terms,Betimleyici terimler,Flowing,
+FOCUS,473,descriptive,Descriptive terms,Betimleyici terimler,Focus,
+FOCUSED,474,descriptive,Descriptive terms,Betimleyici terimler,Focused,Odaklı
+FRAGRANT,475,descriptive,Descriptive terms,Betimleyici terimler,Fragrant,
+FRESH,476,descriptive,Descriptive terms,Betimleyici terimler,Fresh,Taze
+FULL,477,descriptive,Descriptive terms,Betimleyici terimler,Full,Dolgun
+FUN,478,descriptive,Descriptive terms,Betimleyici terimler,Fun,
+GAINING,479,descriptive,Descriptive terms,Betimleyici terimler,Gaining,
+GENEROSITY,480,descriptive,Descriptive terms,Betimleyici terimler,Generosity,
+GENEROUS,481,descriptive,Descriptive terms,Betimleyici terimler,Generous,
+GENTLE,482,descriptive,Descriptive terms,Betimleyici terimler,Gentle,Nazik
+GLIDE,483,descriptive,Descriptive terms,Betimleyici terimler,Glide,Akıcı
+GOES DOWN EASY,484,descriptive,Descriptive terms,Betimleyici terimler,Goes down easy,
+GOOD,485,descriptive,Descriptive terms,Betimleyici terimler,Good,İyi
+GOOEY,486,descriptive,Descriptive terms,Betimleyici terimler,Gooey,
+GORGEOUS,487,descriptive,Descriptive terms,Betimleyici terimler,Gorgeous,Muhteşem
+GRACE,488,descriptive,Descriptive terms,Betimleyici terimler,Grace,
+GRIP,489,descriptive,Descriptive terms,Betimleyici terimler,Grip,Kavrayış
+GUSH,490,descriptive,Descriptive terms,Betimleyici terimler,Gush,
+GUTSY RICHNESS,491,descriptive,Descriptive terms,Betimleyici terimler,Gutsy richness,
+HALOED,492,descriptive,Descriptive terms,Betimleyici terimler,Haloed,
+HANG,493,descriptive,Descriptive terms,Betimleyici terimler,Hang,
+HARMONY,494,descriptive,Descriptive terms,Betimleyici terimler,Harmony,
+HEADY,495,descriptive,Descriptive terms,Betimleyici terimler,Heady,
+HEAT,496,descriptive,Descriptive terms,Betimleyici terimler,Heat,
+HIGH-TONED,497,descriptive,Descriptive terms,Betimleyici terimler,High-toned,
+HONEST,498,descriptive,Descriptive terms,Betimleyici terimler,Honest,Dürüst
+HOVER,499,descriptive,Descriptive terms,Betimleyici terimler,Hover,
+IMMENSE,500,descriptive,Descriptive terms,Betimleyici terimler,Immense,
+IMPECCIBLE,501,descriptive,Descriptive terms,Betimleyici terimler,Impeccible,
+IMPRESSES,502,descriptive,Descriptive terms,Betimleyici terimler,Impresses,Etkileyici
+INCENSE,503,descriptive,Descriptive terms,Betimleyici terimler,Incense,Tütsü
+INCREDIBLE,504,descriptive,Descriptive terms,Betimleyici terimler,Incredible,
+INCREDIBLY,505,descriptive,Descriptive terms,Betimleyici terimler,Incredibly,
+INTEGRATE,506,descriptive,Descriptive terms,Betimleyici terimler,Integrate,Bütünleşik
+INTEGRATION,507,descriptive,Descriptive terms,Betimleyici terimler,Integration,
+INTEGRITY,508,descriptive,Descriptive terms,Betimleyici terimler,Integrity,
+INTENSITY,509,descriptive,Descriptive terms,Betimleyici terimler,Intensity,
+INTERNATIONAL-STYLE,510,descriptive,Descriptive terms,Betimleyici terimler,International-style,
+INTRIGUING,511,descriptive,Descriptive terms,Betimleyici terimler,Intriguing,
+INVITING,512,descriptive,Descriptive terms,Betimleyici terimler,Inviting,Davetkâr
+JAW-DROPPING,513,descriptive,Descriptive terms,Betimleyici terimler,Jaw-dropping,
+JAZZY,514,descriptive,Descriptive terms,Betimleyici terimler,Jazzy,
+JOY,515,descriptive,Descriptive terms,Betimleyici terimler,Joy,
+JUDICIOUS,516,descriptive,Descriptive terms,Betimleyici terimler,Judicious,
+JUICINESS,517,descriptive,Descriptive terms,Betimleyici terimler,Juiciness,Sululuk
+KNOCKOUT,518,descriptive,Descriptive terms,Betimleyici terimler,Knockout,
+LACED,519,descriptive,Descriptive terms,Betimleyici terimler,Laced,İşlenmiş
+LADEN,520,descriptive,Descriptive terms,Betimleyici terimler,Laden,
+LARGE-SCALE,521,descriptive,Descriptive terms,Betimleyici terimler,Large-scale,
+LASTS,522,descriptive,Descriptive terms,Betimleyici terimler,Lasts,
+LATENT,523,descriptive,Descriptive terms,Betimleyici terimler,Latent,
+LATENT DEPTH,524,descriptive,Descriptive terms,Betimleyici terimler,Latent depth,
+LAVISH,525,descriptive,Descriptive terms,Betimleyici terimler,Lavish,
+LAYER,526,descriptive,Descriptive terms,Betimleyici terimler,Layer,Katman
+LENGTH,527,descriptive,Descriptive terms,Betimleyici terimler,Length,Uzunluk
+LESS BROAD,528,descriptive,Descriptive terms,Betimleyici terimler,Less broad,
+LIFT,529,descriptive,Descriptive terms,Betimleyici terimler,Lift,
+LIGHT TEXTURE,530,descriptive,Descriptive terms,Betimleyici terimler,Light texture,
+LIGHTWEIGHT,531,descriptive,Descriptive terms,Betimleyici terimler,Lightweight,
+LILTING,532,descriptive,Descriptive terms,Betimleyici terimler,Lilting,
+LIMESTONE CLIFF,533,descriptive,Descriptive terms,Betimleyici terimler,Limestone cliff,
+LINEAR,534,descriptive,Descriptive terms,Betimleyici terimler,Linear,
+LINGER,535,descriptive,Descriptive terms,Betimleyici terimler,Linger,Kalıcı tat
+LITHE,536,descriptive,Descriptive terms,Betimleyici terimler,Lithe,
+LIVE-WIRE,537,descriptive,Descriptive terms,Betimleyici terimler,Live-wire,
+LIVELIER,538,descriptive,Descriptive terms,Betimleyici terimler,Livelier,
+LIVELY,539,descriptive,Descriptive terms,Betimleyici terimler,Lively,Canlı
+POWER,540,descriptive,Descriptive terms,Betimleyici terimler,Power,Güç
+LONG,541,descriptive,Descriptive terms,Betimleyici terimler,Long,Uzun
+LOVELY,542,descriptive,Descriptive terms,Betimleyici terimler,Lovely,Hoş
+LURK,543,descriptive,Descriptive terms,Betimleyici terimler,Lurk,
+LUSCIOUS,544,descriptive,Descriptive terms,Betimleyici terimler,Luscious,
+LUSH,545,descriptive,Descriptive terms,Betimleyici terimler,Lush,Bereketli
+LUXURIOUS,546,descriptive,Descriptive terms,Betimleyici terimler,Luxurious,
+MAGNIFICENT,547,descriptive,Descriptive terms,Betimleyici terimler,Magnificent,
+MAJESTIC,548,descriptive,Descriptive terms,Betimleyici terimler,Majestic,
+MARVELOUS,549,descriptive,Descriptive terms,Betimleyici terimler,Marvelous,
+MASSIVE,550,descriptive,Descriptive terms,Betimleyici terimler,Massive,
+MATURING,551,descriptive,Descriptive terms,Betimleyici terimler,Maturing,
+MATURITY,552,descriptive,Descriptive terms,Betimleyici terimler,Maturity,
+MEDIUM SWEET,553,descriptive,Descriptive terms,Betimleyici terimler,Medium sweet,
+MELD,554,descriptive,Descriptive terms,Betimleyici terimler,Meld,
+MELT AWAY,555,descriptive,Descriptive terms,Betimleyici terimler,Melt away,
+MIND-BLOWING,556,descriptive,Descriptive terms,Betimleyici terimler,Mind-blowing,
+MODERN,557,descriptive,Descriptive terms,Betimleyici terimler,Modern,Modern
+MODEST,558,descriptive,Descriptive terms,Betimleyici terimler,Modest,Mütevazı
+MOMENTUM,559,descriptive,Descriptive terms,Betimleyici terimler,Momentum,
+MONOLITHIC,560,descriptive,Descriptive terms,Betimleyici terimler,Monolithic,
+MONUMENTAL,561,descriptive,Descriptive terms,Betimleyici terimler,Monumental,
+MOUTHFEEL,562,descriptive,Descriptive terms,Betimleyici terimler,Mouthfeel,
+MOUTHFUL,563,descriptive,Descriptive terms,Betimleyici terimler,Mouthful,
+MOUTHWATERING,564,descriptive,Descriptive terms,Betimleyici terimler,Mouthwatering,Ağız sulandıran
+MULTIDIMENSIONAL,565,descriptive,Descriptive terms,Betimleyici terimler,Multidimensional,
+MULTIFACETED,566,descriptive,Descriptive terms,Betimleyici terimler,Multifaceted,
+MUSCLE,567,descriptive,Descriptive terms,Betimleyici terimler,Muscle,Kaslı
+MUSCLES,568,descriptive,Descriptive terms,Betimleyici terimler,Muscles,
+MUSKY,569,descriptive,Descriptive terms,Betimleyici terimler,Musky,
+MUTED,570,descriptive,Descriptive terms,Betimleyici terimler,Muted,
+NEEDS TIME,571,descriptive,Descriptive terms,Betimleyici terimler,Needs time,Zamana ihtiyaç duyar
+NERVY,572,descriptive,Descriptive terms,Betimleyici terimler,Nervy,
+NICE,573,descriptive,Descriptive terms,Betimleyici terimler,Nice,Güzel
+NOBLE,574,descriptive,Descriptive terms,Betimleyici terimler,Noble,
+NOT OVERLY MUSCULAR,575,descriptive,Descriptive terms,Betimleyici terimler,Not overly muscular,
+NOT SHOWY,576,descriptive,Descriptive terms,Betimleyici terimler,Not showy,
+NUANCE,577,descriptive,Descriptive terms,Betimleyici terimler,Nuance,
+OILY,578,descriptive,Descriptive terms,Betimleyici terimler,Oily,
+OLD-FASHIONED,579,descriptive,Descriptive terms,Betimleyici terimler,Old-fashioned,
+OPEN,580,descriptive,Descriptive terms,Betimleyici terimler,Open,Açık
+OPULENT,581,descriptive,Descriptive terms,Betimleyici terimler,Opulent,
+ORCHESTRATION,582,descriptive,Descriptive terms,Betimleyici terimler,Orchestration,
+OUTSTANDING,583,descriptive,Descriptive terms,Betimleyici terimler,Outstanding,
+OVERBEARING,584,descriptive,Descriptive terms,Betimleyici terimler,Overbearing,
+OVERRIPENESS,585,descriptive,Descriptive terms,Betimleyici terimler,Overripeness,
+PACKED,586,descriptive,Descriptive terms,Betimleyici terimler,Packed,
+PERFECTLY,587,descriptive,Descriptive terms,Betimleyici terimler,Perfectly,
+PERFUMED,588,descriptive,Descriptive terms,Betimleyici terimler,Perfumed,
+PERFUMED WHITE,589,descriptive,Descriptive terms,Betimleyici terimler,Perfumed white,
+PERFUMY,590,descriptive,Descriptive terms,Betimleyici terimler,Perfumy,Parfümsü
+PERSONALITY,591,descriptive,Descriptive terms,Betimleyici terimler,Personality,
+PHENOMENAL,592,descriptive,Descriptive terms,Betimleyici terimler,Phenomenal,
+PIERCING,593,descriptive,Descriptive terms,Betimleyici terimler,Piercing,
+PITHY MIDPALATE,594,descriptive,Descriptive terms,Betimleyici terimler,Pithy midpalate,
+PIZZAZZ,595,descriptive,Descriptive terms,Betimleyici terimler,Pizzazz,
+PLEASANT,596,descriptive,Descriptive terms,Betimleyici terimler,Pleasant,Hoş
+PLEASING,597,descriptive,Descriptive terms,Betimleyici terimler,Pleasing,
+PLUMP,598,descriptive,Descriptive terms,Betimleyici terimler,Plump,Etli
+PLUSH,599,descriptive,Descriptive terms,Betimleyici terimler,Plush,Pelüş doku
+POISED,600,descriptive,Descriptive terms,Betimleyici terimler,Poised,
+POLISH,601,descriptive,Descriptive terms,Betimleyici terimler,Polish,Cilalı
+POSITIVELY,602,descriptive,Descriptive terms,Betimleyici terimler,Positively,
+POTENT,603,descriptive,Descriptive terms,Betimleyici terimler,Potent,
+POTENTIAL,604,descriptive,Descriptive terms,Betimleyici terimler,Potential,
+PRECISION,605,descriptive,Descriptive terms,Betimleyici terimler,Precision,
+PRESENCE,606,descriptive,Descriptive terms,Betimleyici terimler,Presence,
+PRETTY,607,descriptive,Descriptive terms,Betimleyici terimler,Pretty,Sevimli
+PRIMAL,608,descriptive,Descriptive terms,Betimleyici terimler,Primal,
+PROFOUND,609,descriptive,Descriptive terms,Betimleyici terimler,Profound,
+PROPORTION,610,descriptive,Descriptive terms,Betimleyici terimler,Proportion,
+PUNGENT,611,descriptive,Descriptive terms,Betimleyici terimler,Pungent,
+PURE,612,descriptive,Descriptive terms,Betimleyici terimler,Pure,Saf
+QUALITY,613,descriptive,Descriptive terms,Betimleyici terimler,Quality,
+YOUNG,614,descriptive,Descriptive terms,Betimleyici terimler,Young,Genç
+RACY,615,descriptive,Descriptive terms,Betimleyici terimler,Racy,Diri asitli
+RANGE,616,descriptive,Descriptive terms,Betimleyici terimler,Range,Çeşitlilik
+RAPIERLIKE,617,descriptive,Descriptive terms,Betimleyici terimler,Rapierlike,
+RARE,618,descriptive,Descriptive terms,Betimleyici terimler,Rare,
+RAUCOUS,619,descriptive,Descriptive terms,Betimleyici terimler,Raucous,
+REFINED,620,descriptive,Descriptive terms,Betimleyici terimler,Refined,Rafine
+REFRESHING,621,descriptive,Descriptive terms,Betimleyici terimler,Refreshing,
+RELIANT,622,descriptive,Descriptive terms,Betimleyici terimler,Reliant,
+RELISH,623,descriptive,Descriptive terms,Betimleyici terimler,Relish,
+VIBRANT,624,descriptive,Descriptive terms,Betimleyici terimler,Vibrant,
+REMARKABLE,625,descriptive,Descriptive terms,Betimleyici terimler,Remarkable,
+RESERVED,626,descriptive,Descriptive terms,Betimleyici terimler,Reserved,
+RESONANCE,627,descriptive,Descriptive terms,Betimleyici terimler,Resonance,
+RESTRAINT,628,descriptive,Descriptive terms,Betimleyici terimler,Restraint,
+REVERBERATES,629,descriptive,Descriptive terms,Betimleyici terimler,Reverberates,
+RICH,630,descriptive,Descriptive terms,Betimleyici terimler,Rich,Zengin
+RIGHT PROPORTION,631,descriptive,Descriptive terms,Betimleyici terimler,Right proportion,
+RIPE,632,descriptive,Descriptive terms,Betimleyici terimler,Ripe,Olgun
+RIVETING,633,descriptive,Descriptive terms,Betimleyici terimler,Riveting,
+ROBUST,634,descriptive,Descriptive terms,Betimleyici terimler,Robust,
+ROCK SOLID,635,descriptive,Descriptive terms,Betimleyici terimler,Rock solid,
+ROCKY DEPTHS,636,descriptive,Descriptive terms,Betimleyici terimler,Rocky depths,
+SANGUINE,637,descriptive,Descriptive terms,Betimleyici terimler,Sanguine,Demirimsi
+SATINY,638,descriptive,Descriptive terms,Betimleyici terimler,Satiny,
+SAVAGE ALLURE,639,descriptive,Descriptive terms,Betimleyici terimler,Savage allure,
+SAVORY,640,descriptive,Descriptive terms,Betimleyici terimler,Savory,Tuzlu-umami
+SEAMLESS,641,descriptive,Descriptive terms,Betimleyici terimler,Seamless,
+SEDUCTIVE,642,descriptive,Descriptive terms,Betimleyici terimler,Seductive,
+STYLE,643,descriptive,Descriptive terms,Betimleyici terimler,Style,Stil
+SENSUOUS,644,descriptive,Descriptive terms,Betimleyici terimler,Sensuous,
+SERENE,645,descriptive,Descriptive terms,Betimleyici terimler,Serene,
+SERIOUS,646,descriptive,Descriptive terms,Betimleyici terimler,Serious,Ciddi
+SHARPLY DEFINED,647,descriptive,Descriptive terms,Betimleyici terimler,Sharply defined,
+SHINES,648,descriptive,Descriptive terms,Betimleyici terimler,Shines,
+SILKY,649,descriptive,Descriptive terms,Betimleyici terimler,Silky,İpeksi
+SINEW,650,descriptive,Descriptive terms,Betimleyici terimler,Sinew,
+SKILLFULLY,651,descriptive,Descriptive terms,Betimleyici terimler,Skillfully,
+SLEEK,652,descriptive,Descriptive terms,Betimleyici terimler,Sleek,Pürüzsüz
+SLIM,653,descriptive,Descriptive terms,Betimleyici terimler,Slim,
+SMOOTH,654,descriptive,Descriptive terms,Betimleyici terimler,Smooth,
+SMOULDERING,655,descriptive,Descriptive terms,Betimleyici terimler,Smouldering,
+SNAPPY,656,descriptive,Descriptive terms,Betimleyici terimler,Snappy,
+SNUGLY,657,descriptive,Descriptive terms,Betimleyici terimler,Snugly,
+SOFT,658,descriptive,Descriptive terms,Betimleyici terimler,Soft,Yumuşak
+SOPHISTICATION,659,descriptive,Descriptive terms,Betimleyici terimler,Sophistication,
+SOUR,660,descriptive,Descriptive terms,Betimleyici terimler,Sour,
+SPARKS,661,descriptive,Descriptive terms,Betimleyici terimler,Sparks,
+STEAM,662,descriptive,Descriptive terms,Betimleyici terimler,Steam,
+STEELY,663,descriptive,Descriptive terms,Betimleyici terimler,Steely,
+STRENGTH,664,descriptive,Descriptive terms,Betimleyici terimler,Strength,Kuvvet
+STRETCHING,665,descriptive,Descriptive terms,Betimleyici terimler,Stretching,
+STRIKING,666,descriptive,Descriptive terms,Betimleyici terimler,Striking,
+STUNNING,667,descriptive,Descriptive terms,Betimleyici terimler,Stunning,
+SUAVE,668,descriptive,Descriptive terms,Betimleyici terimler,Suave,
+SUBDUED,669,descriptive,Descriptive terms,Betimleyici terimler,Subdued,
+SUBTLE,670,descriptive,Descriptive terms,Betimleyici terimler,Subtle,İncelikli
+SUCCESS,671,descriptive,Descriptive terms,Betimleyici terimler,Success,
+SUCCULENT,672,descriptive,Descriptive terms,Betimleyici terimler,Succulent,
+SUMPTUOUS,673,descriptive,Descriptive terms,Betimleyici terimler,Sumptuous,
+SUPER,674,descriptive,Descriptive terms,Betimleyici terimler,Super,
+SUPERATTRACTIVE,675,descriptive,Descriptive terms,Betimleyici terimler,Superattractive,
+SUPERB,676,descriptive,Descriptive terms,Betimleyici terimler,Superb,
+SUPERCLEAN,677,descriptive,Descriptive terms,Betimleyici terimler,Superclean,
+SUPERFINE,678,descriptive,Descriptive terms,Betimleyici terimler,Superfine,
+SUPERFLESHY,679,descriptive,Descriptive terms,Betimleyici terimler,Superfleshy,
+SUPERIOR,680,descriptive,Descriptive terms,Betimleyici terimler,Superior,
+SUPERPLUSH,681,descriptive,Descriptive terms,Betimleyici terimler,Superplush,
+SUPERPOLISHED,682,descriptive,Descriptive terms,Betimleyici terimler,Superpolished,
+SUPERRICH,683,descriptive,Descriptive terms,Betimleyici terimler,Superrich,
+SUPERSILKY,684,descriptive,Descriptive terms,Betimleyici terimler,Supersilky,
+SUPPLE,685,descriptive,Descriptive terms,Betimleyici terimler,Supple,Esnek
+SUPPORT,686,descriptive,Descriptive terms,Betimleyici terimler,Support,
+SURPRISINGLY,687,descriptive,Descriptive terms,Betimleyici terimler,Surprisingly,
+SUSTAIN,688,descriptive,Descriptive terms,Betimleyici terimler,Sustain,
+SVELTE,689,descriptive,Descriptive terms,Betimleyici terimler,Svelte,
+SWEET,690,descriptive,Descriptive terms,Betimleyici terimler,Sweet,Tatlı
+SWIRLING,691,descriptive,Descriptive terms,Betimleyici terimler,Swirling,
+SYMPHONY,692,descriptive,Descriptive terms,Betimleyici terimler,Symphony,
+TANGY,693,descriptive,Descriptive terms,Betimleyici terimler,Tangy,Ekşimsi
+TANTALIZING,694,descriptive,Descriptive terms,Betimleyici terimler,Tantalizing,
+TASTY,695,descriptive,Descriptive terms,Betimleyici terimler,Tasty,Tadı yerinde
+TAUT,696,descriptive,Descriptive terms,Betimleyici terimler,Taut,Gergin
+TEMPTING,697,descriptive,Descriptive terms,Betimleyici terimler,Tempting,
+TENSION,698,descriptive,Descriptive terms,Betimleyici terimler,Tension,
+TERRIFIC,699,descriptive,Descriptive terms,Betimleyici terimler,Terrific,
+TEXTURE,700,descriptive,Descriptive terms,Betimleyici terimler,Texture,Doku
+THICK,701,descriptive,Descriptive terms,Betimleyici terimler,Thick,Kalın doku
+THICKLY LAYERED,702,descriptive,Descriptive terms,Betimleyici terimler,Thickly layered,
+THROWBACK PROFILE,703,descriptive,Descriptive terms,Betimleyici terimler,Throwback profile,
+TIGHT,704,descriptive,Descriptive terms,Betimleyici terimler,Tight,Kapalı
+TOP-NOTCH,705,descriptive,Descriptive terms,Betimleyici terimler,Top-notch,
+TRACTION,706,descriptive,Descriptive terms,Betimleyici terimler,Traction,
+TRADITIONAL,707,descriptive,Descriptive terms,Betimleyici terimler,Traditional,
+TREMENDOUS,708,descriptive,Descriptive terms,Betimleyici terimler,Tremendous,
+TREMENDOUSLY,709,descriptive,Descriptive terms,Betimleyici terimler,Tremendously,
+TRIUMPH,710,descriptive,Descriptive terms,Betimleyici terimler,Triumph,
+TROPICAL,711,descriptive,Descriptive terms,Betimleyici terimler,Tropical,
+ULTRACLEAN,712,descriptive,Descriptive terms,Betimleyici terimler,Ultraclean,
+ULTRAREFINED,713,descriptive,Descriptive terms,Betimleyici terimler,Ultrarefined,
+ULTRARICH,714,descriptive,Descriptive terms,Betimleyici terimler,Ultrarich,
+ULTRARIPE,715,descriptive,Descriptive terms,Betimleyici terimler,Ultraripe,
+ULTRATHICK,716,descriptive,Descriptive terms,Betimleyici terimler,Ultrathick,
+ULTRAVELVETY,717,descriptive,Descriptive terms,Betimleyici terimler,Ultravelvety,
+UNCTUOUS,718,descriptive,Descriptive terms,Betimleyici terimler,Unctuous,
+UNDERRATED,719,descriptive,Descriptive terms,Betimleyici terimler,Underrated,
+UNDERSTATED,720,descriptive,Descriptive terms,Betimleyici terimler,Understated,
+UTTERLY CAPTIVATING,721,descriptive,Descriptive terms,Betimleyici terimler,Utterly captivating,
+UTTERLY COMPLETE,722,descriptive,Descriptive terms,Betimleyici terimler,Utterly complete,
+VALUE,723,descriptive,Descriptive terms,Betimleyici terimler,Value,
+VELVET,724,descriptive,Descriptive terms,Betimleyici terimler,Velvet,Kadife
+VERVE,725,descriptive,Descriptive terms,Betimleyici terimler,Verve,
+VIBRATING,726,descriptive,Descriptive terms,Betimleyici terimler,Vibrating,
+VIVID,727,descriptive,Descriptive terms,Betimleyici terimler,Vivid,
+VOLUPTUOUS,728,descriptive,Descriptive terms,Betimleyici terimler,Voluptuous,
+WARM,729,descriptive,Descriptive terms,Betimleyici terimler,Warm,Sıcak
+WAXY,730,descriptive,Descriptive terms,Betimleyici terimler,Waxy,
+WELCOMING,731,descriptive,Descriptive terms,Betimleyici terimler,Welcoming,
+WELL DONE,732,descriptive,Descriptive terms,Betimleyici terimler,Well done,İyi yapılmış
+WELL PUT TOGETHER,733,descriptive,Descriptive terms,Betimleyici terimler,Well put together,
+WELL-BALANCED,734,descriptive,Descriptive terms,Betimleyici terimler,Well-balanced,
+WELL-CRAFTED,735,descriptive,Descriptive terms,Betimleyici terimler,Well-crafted,
+WELL-DEFINED,736,descriptive,Descriptive terms,Betimleyici terimler,Well-defined,
+WELL-DISPERSED,737,descriptive,Descriptive terms,Betimleyici terimler,Well-dispersed,
+WELL-DONE,738,descriptive,Descriptive terms,Betimleyici terimler,Well-done,
+WELL-ENDOWED,739,descriptive,Descriptive terms,Betimleyici terimler,Well-endowed,
+WELL-EXTRACTED,740,descriptive,Descriptive terms,Betimleyici terimler,Well-extracted,
+WELL-FOCUSED,741,descriptive,Descriptive terms,Betimleyici terimler,Well-focused,
+WELL-GROUNDED,742,descriptive,Descriptive terms,Betimleyici terimler,Well-grounded,
+WELL-HONED,743,descriptive,Descriptive terms,Betimleyici terimler,Well-honed,
+WELL-INTEGRATED,744,descriptive,Descriptive terms,Betimleyici terimler,Well-integrated,
+WELL-LAYERED,745,descriptive,Descriptive terms,Betimleyici terimler,Well-layered,
+WELL-MESHED,746,descriptive,Descriptive terms,Betimleyici terimler,Well-meshed,
+WELL-POLISHED,747,descriptive,Descriptive terms,Betimleyici terimler,Well-polished,
+WELL-PROPORTIONED,748,descriptive,Descriptive terms,Betimleyici terimler,Well-proportioned,
+WELL-SCULPTED,749,descriptive,Descriptive terms,Betimleyici terimler,Well-sculpted,
+WELL-TONED,750,descriptive,Descriptive terms,Betimleyici terimler,Well-toned,
+WILD,751,descriptive,Descriptive terms,Betimleyici terimler,Wild,
+WINNER,752,descriptive,Descriptive terms,Betimleyici terimler,Winner,
+WONDERFUL,753,descriptive,Descriptive terms,Betimleyici terimler,Wonderful,Şahane
+WORTHY,754,descriptive,Descriptive terms,Betimleyici terimler,Worthy,
+YUM,755,descriptive,Descriptive terms,Betimleyici terimler,Yum,
+ZEST,756,descriptive,Descriptive terms,Betimleyici terimler,Zest,Kabuk
+ZINGY,757,descriptive,Descriptive terms,Betimleyici terimler,Zingy,
+BACON,758,meat,Meat & savoury,Et ve tuzlu,Bacon,
+BEEF,759,meat,Meat & savoury,Et ve tuzlu,Beef,Sığır eti
+BEEF CARPACCIO,760,meat,Meat & savoury,Et ve tuzlu,Beef carpaccio,
+CHARRED MEAT,761,meat,Meat & savoury,Et ve tuzlu,Charred meat,
+GAME,762,meat,Meat & savoury,Et ve tuzlu,Game,Av eti
+GRILLED MEAT,763,meat,Meat & savoury,Et ve tuzlu,Grilled meat,
+MEAT,764,meat,Meat & savoury,Et ve tuzlu,Meat,Et
+OYSTER SHELL,765,meat,Meat & savoury,Et ve tuzlu,Oyster shell,
+RED MEAT,766,meat,Meat & savoury,Et ve tuzlu,Red meat,
+ROASTED DUCK,767,meat,Meat & savoury,Et ve tuzlu,Roasted duck,
+ROASTED MEAT,768,meat,Meat & savoury,Et ve tuzlu,Roasted meat,
+SALUMI,769,meat,Meat & savoury,Et ve tuzlu,Salumi,
+TERIYAKI,770,meat,Meat & savoury,Et ve tuzlu,Teriyaki,
+ANISE SEED,771,herbs,Herbs,Otlar,Anise seed,
+AUTUMN LEAF,772,herbs,Herbs,Otlar,Autumn leaf,
+BALSAMIC,773,herbs,Herbs,Otlar,Balsamic,
+BARLEY,774,herbs,Herbs,Otlar,Barley,
+BASIL,775,herbs,Herbs,Otlar,Basil,
+BAY LEAF,776,herbs,Herbs,Otlar,Bay leaf,
+BELL PEPPER,777,herbs,Herbs,Otlar,Bell pepper,
+BRAMBLE,778,herbs,Herbs,Otlar,Bramble,Böğürtlen çalısı
+CARDAMOM,779,herbs,Herbs,Otlar,Cardamom,
+CORIANDER,780,herbs,Herbs,Otlar,Coriander,
+CRUSHED PINE NEEDLE,781,herbs,Herbs,Otlar,Crushed pine needle,
+GRASS,782,herbs,Herbs,Otlar,Grass,
+EUCALYPTUS,783,herbs,Herbs,Otlar,Eucalyptus,
+GRAIN,784,herbs,Herbs,Otlar,Grain,
+HERBS,785,herbs,Herbs,Otlar,Herbs,Otlar
+MINT,786,herbs,Herbs,Otlar,Mint,Nane
+MESQUITE,787,herbs,Herbs,Otlar,Mesquite,Mesquite dumanı
+MINTY BAY LEAF,788,herbs,Herbs,Otlar,Minty bay leaf,
+MOUNTAIN HERB,789,herbs,Herbs,Otlar,Mountain herb,
+MULTIGRAIN BREAD,790,herbs,Herbs,Otlar,Multigrain bread,
+NETTLE,791,herbs,Herbs,Otlar,Nettle,
+SAGE,792,herbs,Herbs,Otlar,Sage,Adaçayı
+OATMEAL,793,herbs,Herbs,Otlar,Oatmeal,
+PEPPERMINT,794,herbs,Herbs,Otlar,Peppermint,
+SASSAFRAS,795,herbs,Herbs,Otlar,Sassafras,
+SHISO,796,herbs,Herbs,Otlar,Shiso,
+TOMATO LEAF,797,herbs,Herbs,Otlar,Tomato leaf,
+WHITE PEPPERCORN,798,herbs,Herbs,Otlar,White peppercorn,
+HERB,799,herbs,Herbs,Otlar,Herb,
+ARTICHOKE,800,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Artichoke,
+ASPARAGUS,801,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Asparagus,Kuşkonmaz
+BLACK OLIVE,802,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Black olive,Siyah zeytin
+CHARRED MESQUITE,803,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Charred mesquite,
+DARK TAPENADE,804,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Dark tapenade,
+GREEN BEANS,805,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Green beans,
+GREEN OLIVE,806,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Green olive,
+GRILLED HERB,807,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Grilled herb,
+GRILLED ROSEMARY,808,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Grilled rosemary,
+GRILLED SAGE,809,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Grilled sage,
+OLIVE,810,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Olive,Zeytin
+ROASTED BEET,811,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Roasted beet,
+ROASTED CARAWAY,812,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Roasted caraway,
+ROASTED HERB,813,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Roasted herb,
+ROASTED MESQUITE,814,vegetal,Vegetal & olive,Sebzemsi ve zeytin,Roasted mesquite,
+BLACK TEA,815,tea_tobacco,Tea & tobacco,Çay ve tütün,Black tea,Siyah çay
+CHAI TEA,816,tea_tobacco,Tea & tobacco,Çay ve tütün,Chai tea,
+DARK TOBACCO,817,tea_tobacco,Tea & tobacco,Çay ve tütün,Dark tobacco,
+DRIED BASIL,818,tea_tobacco,Tea & tobacco,Çay ve tütün,Dried basil,
+DRIED HERB,819,tea_tobacco,Tea & tobacco,Çay ve tütün,Dried herb,
+DRIED MARJORAM,820,tea_tobacco,Tea & tobacco,Çay ve tütün,Dried marjoram,
+DRIED MINT,821,tea_tobacco,Tea & tobacco,Çay ve tütün,Dried mint,
+DRIED SAGE,822,tea_tobacco,Tea & tobacco,Çay ve tütün,Dried sage,
+DRIED THYME,823,tea_tobacco,Tea & tobacco,Çay ve tütün,Dried thyme,
+FRESH BASIL,824,tea_tobacco,Tea & tobacco,Çay ve tütün,Fresh basil,
+FRESH TOBACCO,825,tea_tobacco,Tea & tobacco,Çay ve tütün,Fresh tobacco,
+GREEN TEA,826,tea_tobacco,Tea & tobacco,Çay ve tütün,Green tea,Yeşil çay
+HAY/STRAW,827,tea_tobacco,Tea & tobacco,Çay ve tütün,Hay / straw,Saman
+JASMINE TEA,828,tea_tobacco,Tea & tobacco,Çay ve tütün,Jasmine tea,
+LAPSANG SOUCHONG TEA,829,tea_tobacco,Tea & tobacco,Çay ve tütün,Lapsang souchong tea,
+MADURO TOBACCO,830,tea_tobacco,Tea & tobacco,Çay ve tütün,Maduro tobacco,Maduro tütün
+OOLONG TEA,831,tea_tobacco,Tea & tobacco,Çay ve tütün,Oolong tea,
+SWEET TOBACCO,832,tea_tobacco,Tea & tobacco,Çay ve tütün,Sweet tobacco,
+TEA,833,tea_tobacco,Tea & tobacco,Çay ve tütün,Tea,Çay
+TEA LEAF,834,tea_tobacco,Tea & tobacco,Çay ve tütün,Tea leaf,
+TOBACCO,835,tea_tobacco,Tea & tobacco,Çay ve tütün,Tobacco,Tütün
+ALMOND,836,nuts,Nuts,Kuruyemiş,Almond,Badem
+BLANCHED ALMOND,837,nuts,Nuts,Kuruyemiş,Blanched almond,
+BRAZIL NUT,838,nuts,Nuts,Kuruyemiş,Brazil nut,
+CHESTNUT,839,nuts,Nuts,Kuruyemiş,Chestnut,Kestane
+GREEN ALMOND,840,nuts,Nuts,Kuruyemiş,Green almond,
+GRILLED HAZELNUT,841,nuts,Nuts,Kuruyemiş,Grilled hazelnut,
+HAZELNUT,842,nuts,Nuts,Kuruyemiş,Hazelnut,Fındık
+HONEY ROASTED ALMONDS,843,nuts,Nuts,Kuruyemiş,Honey roasted almonds,
+MACADAMIA NUT,844,nuts,Nuts,Kuruyemiş,Macadamia nut,Makadamya
+NUT,845,nuts,Nuts,Kuruyemiş,Nut,
+ROASTED CHESTNUT,846,nuts,Nuts,Kuruyemiş,Roasted chestnut,
+TOASTED ALMOND,847,nuts,Nuts,Kuruyemiş,Toasted almond,
+TOASTED HAZELNUT,848,nuts,Nuts,Kuruyemiş,Toasted hazelnut,
+WALNUT,849,nuts,Nuts,Kuruyemiş,Walnut,
+WALNUT PASTE,850,nuts,Nuts,Kuruyemiş,Walnut paste,
+BEESWAX,851,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Beeswax,
+CHOCOLATE,852,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Chocolate,Çikolata
+COCOA,853,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Cocoa,Kakao
+GANACHE,854,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Ganache,Ganaj
+BUTTER,855,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Butter,Tereyağı
+BUTTERSCOTCH,856,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Butterscotch,
+CARAMEL,857,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Caramel,Karamel
+COCONUT BUTTER,858,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Coconut butter,
+HONEY,859,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Honey,Bal
+CUSTARD,860,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Custard,
+DARK CHOCOLATE,861,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Dark chocolate,
+DARKLY ROASTED COFFEE,862,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Darkly roasted coffee,
+DIACETYL (BUTTER),863,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Diacetyl (butter),
+ESPRESSO,864,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Espresso,Espresso
+CHOCOLATE CAKE,865,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Chocolate cake,
+GINGERSNAP COOKIES,866,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Gingersnap cookies,
+HOISIN,867,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Hoisin,
+HONEY SYRUP,868,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Honey syrup,
+LINZER TORTE,869,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Linzer torte,Linzer tart
+MAPLE SYRUP,870,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Maple syrup,
+MARSHMALLOW,871,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Marshmallow,
+MARZIPAN,872,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Marzipan,Badem ezmesi
+WAX,873,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Wax,
+MERINGUE,874,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Meringue,Beze
+MOCHA,875,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Mocha,Moka
+MOLASSES,876,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Molasses,
+MOUSSE,877,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Mousse,
+PANCAKES,878,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Pancakes,
+PASTRY,879,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Pastry,
+PIE,880,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Pie,Turta
+PIECRUST,881,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Piecrust,Turta hamuru
+SOY,882,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Soy,
+SOY SAUCE,883,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Soy sauce,
+SYRUP,884,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Syrup,
+TART,885,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Tart,Tart
+TOASTY MOCHA,886,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Toasty mocha,
+TOFFEE,887,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Toffee,Tofi
+TURKISH COFFEE,888,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Turkish coffee,
+TURKISH DELIGHT DESSERT,889,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",Turkish delight dessert,
+WHITE CHOCOLATE,890,sweet,"Chocolate, honey & pastry","Çikolata, bal ve tatlı",White chocolate,
+ALDER,891,oak,Oak & wood,Meşe ve ahşap,Alder,Kızılağaç
+CEDAR,892,oak,Oak & wood,Meşe ve ahşap,Cedar,Sedir
+CEDARY OAK,893,oak,Oak & wood,Meşe ve ahşap,Cedary oak,
+CREAMY OAK,894,oak,Oak & wood,Meşe ve ahşap,Creamy oak,
+OAK,895,oak,Oak & wood,Meşe ve ahşap,Oak,Meşe
+VANILLA,896,oak,Oak & wood,Meşe ve ahşap,Vanilla,Vanilya
+MAHOGANY,897,oak,Oak & wood,Meşe ve ahşap,Mahogany,
+SANDALWOOD,898,oak,Oak & wood,Meşe ve ahşap,Sandalwood,Sandal ağacı
+WOOD,899,oak,Oak & wood,Meşe ve ahşap,Wood,Ahşap
+MEDICINAL,900,medicinal,Medicinal,Tıbbi,Medicinal,
+PHENOLIC,901,medicinal,Medicinal,Tıbbi,Phenolic,
+QUININE,902,medicinal,Medicinal,Tıbbi,Quinine,Kinin
+TALCUM,903,medicinal,Medicinal,Tıbbi,Talcum,
+COFFEE,904,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Coffee,Kahve
+BURNT TOAST,905,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Burnt toast,
+CAFE AU LAIT,906,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Cafe au lait,
+CAPPUCCINO,907,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Cappuccino,
+CHARCOAL,908,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Charcoal,Kömür
+CIGAR,909,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Cigar,Puro
+CIGAR SMOKE,910,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Cigar smoke,
+CIGAR TOBACCO,911,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Cigar tobacco,
+COFFEE LIQUEUR,912,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Coffee liqueur,
+COLA,913,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Cola,Kola
+DARK ROASTED COFFEE,914,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Dark roasted coffee,
+TOASTY,915,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Toasty,
+FRENCH ROAST COFFEE,916,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",French roast coffee,
+ROASTED COFFEE,917,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Roasted coffee,
+ROASTED ESPRESSO,918,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Roasted espresso,
+TOASTY OAK,919,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Toasty oak,
+LIQUEUR,920,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Liqueur,
+ROASTED,921,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Roasted,Kavrulmuş
+ROASTED APPLE WOOD,922,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Roasted apple wood,
+ROASTED MARSHMALLOW,923,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Roasted marshmallow,
+SMOKE,924,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Smoke,Duman
+SMOKY OAK,925,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Smoky oak,
+TOAST,926,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Toast,Kızarmış ekmek
+TOASTED BRIOCHE,927,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Toasted brioche,
+TOASTY WOOD,928,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Toasty wood,
+WOOD SMOKE,929,roasted,"Coffee, toast & smoke","Kahve, kavrulmuş ve duman",Wood smoke,
+ASPHALT,930,earth,Earth & mineral,Toprak ve mineral,Asphalt,
+TRUFFLE,931,earth,Earth & mineral,Toprak ve mineral,Truffle,
+BLOOD,932,earth,Earth & mineral,Toprak ve mineral,Blood,
+BRICK,933,earth,Earth & mineral,Toprak ve mineral,Brick,
+CARBONIC GAS,934,earth,Earth & mineral,Toprak ve mineral,Carbonic gas,
+CHALK,935,earth,Earth & mineral,Toprak ve mineral,Chalk,Tebeşir
+LOAM,936,earth,Earth & mineral,Toprak ve mineral,Loam,Tınlı toprak
+EARTHY,937,earth,Earth & mineral,Toprak ve mineral,Earthy,Topraksı
+CRUSHED ROCK,938,earth,Earth & mineral,Toprak ve mineral,Crushed rock,Ezilmiş taş
+DRIED MUSHROOM,939,earth,Earth & mineral,Toprak ve mineral,Dried mushroom,
+DUSTY,940,earth,Earth & mineral,Toprak ve mineral,Dusty,Tozlu
+IRON,941,earth,Earth & mineral,Toprak ve mineral,Iron,Demir
+FLINT,942,earth,Earth & mineral,Toprak ve mineral,Flint,
+FRESH MUSHROOM,943,earth,Earth & mineral,Toprak ve mineral,Fresh mushroom,
+FRESH PORCINI,944,earth,Earth & mineral,Toprak ve mineral,Fresh porcini,
+PENCIL LEAD,945,earth,Earth & mineral,Toprak ve mineral,Pencil lead,Kurşun kalem ucu
+GRAPHITE,946,earth,Earth & mineral,Toprak ve mineral,Graphite,
+GUNFLINT,947,earth,Earth & mineral,Toprak ve mineral,Gunflint,
+HOT EARTH,948,earth,Earth & mineral,Toprak ve mineral,Hot earth,
+HUMUS,949,earth,Earth & mineral,Toprak ve mineral,Humus,Humus toprağı
+IODINE,950,earth,Earth & mineral,Toprak ve mineral,Iodine,
+MINERAL,951,earth,Earth & mineral,Toprak ve mineral,Mineral,Mineral
+MUSHROOM,952,earth,Earth & mineral,Toprak ve mineral,Mushroom,Mantar
+PEBBLE,953,earth,Earth & mineral,Toprak ve mineral,Pebble,Çakıl
+PETROL,954,earth,Earth & mineral,Toprak ve mineral,Petrol,
+PORCINI MUSHROOM,955,earth,Earth & mineral,Toprak ve mineral,Porcini mushroom,
+SALINE,956,earth,Earth & mineral,Toprak ve mineral,Saline,
+SAUTEED WILD MUSHROOM,957,earth,Earth & mineral,Toprak ve mineral,Sauteed wild mushroom,
+SLATE,958,earth,Earth & mineral,Toprak ve mineral,Slate,
+STEEL,959,earth,Earth & mineral,Toprak ve mineral,Steel,
+STONE,960,earth,Earth & mineral,Toprak ve mineral,Stone,Taş
+MOLDY,961,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Moldy,
+MOLDY CORK,962,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Moldy cork,
+DIESEL,963,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Diesel,
+KEROSENE,964,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Kerosene,
+PLASTIC,965,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Plastic,
+SQUID INK,966,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Squid ink,
+TAR,967,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Tar,Katran
+BURN,968,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Burn,
+BURNT MATCH,969,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Burnt match,
+CABBAGE,970,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Cabbage,
+GARLIC,971,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Garlic,
+HYDROGEN SULFIDE,972,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Hydrogen sulfide,
+NATURAL GAS MERCAPTAN,973,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Natural gas mercaptan,
+RUBBERY,974,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Rubbery,
+SKUNK,975,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Skunk,
+SULFUR DIOXIDE,976,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Sulfur dioxide,
+"WET WOOL,WET DOG",977,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Wet wool / wet dog,
+ACETIC ACID,978,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Acetic acid,
+ETHANOL,979,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Ethanol,
+ETHYL ACETATE,980,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Ethyl acetate,
+ALCOHOL,981,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Alcohol,
+FROTH,982,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Froth,
+MENTHOL,983,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Menthol,Mentol
+SHERRY,984,chemical,"Tar, menthol & faults","Katran, mentol ve kusurlar",Sherry,
