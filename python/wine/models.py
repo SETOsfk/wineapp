@@ -1,7 +1,7 @@
 """Model zoo and evaluation designs.
 
 Three ways to split the data, because "how good is the model" depends on the question:
-  random    stratified 5-fold CV — what the literature reports (Dong et al. 2020: SVM 86.97 %)
+  random    stratified 5-fold CV — what the literature reports (Dong et al. 2020: SVM 86.97 %; Dong, Atkison & Chen 2021: naive Bayes + category counts 87.32 %)
   grouped   the same wine (all vintages of a label) never sits in train and test at once
   temporal  train on vintages 2000–2011, test on 2012–2016 (a model is used on future vintages)
 """

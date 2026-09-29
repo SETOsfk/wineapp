@@ -18,6 +18,7 @@ the cheeses to pair, Turkish wines made in the same style, and the shops nearest
 | Gradient boosting | 86.8 % | 0.934 |
 | Random forest (random folds) | 86.1 % | 0.932 |
 | *Literature: SVM, Dong et al. 2020* | *86.97 %* | — |
+| *Literature: naive Bayes + category counts, Dong, Atkison & Chen 2021* | *87.32 %* | — |
 
 **The simple model wins.** On sparse word data, logistic regression matches the published best and the tree ensembles don't beat it.
 
@@ -111,7 +112,7 @@ Kaggle licence "Unknown" — raw data is not redistributed. Code: MIT.
 
 **Soru:** Wine Spectator'ın 14.349 Bordeaux incelemesinden çıkarılmış 985 kelimeyle 90+ puan tahmin edilebilir mi, hangi kelimeler belirleyici?
 
-- **Lojistik regresyon %87,3 doğruluk** (taban çizgisi %70,3; literatürdeki en iyi SVM %86,97). Ağaç modelleri geçemedi.
+- **Lojistik regresyon %87,3 doğruluk** (taban çizgisi %70,3; literatürdeki en iyi sonuç %87,32: naive Bayes + kategori sayımları, Dong, Atkison ve Chen 2021 — yani aynı düzey, üstü değil). Ağaç modelleri geçemedi.
 - **Övgü kelimeleri tattan daha iyi tahmin ediyor** (AUC 0,908'e karşı 0,869): eleştirmenin hükmü metne sızıyor. Uygulamadaki tahmin bu yüzden yalnız tat ve yapı kelimelerini kullanıyor.
 - Şarap bazında gruplu doğrulama sonucu değiştirmedi (şato sızıntısı yok); gelecek rekoltelerde (2012–16) doğruluk 2,1 puan düşüyor.
 - 2024 sürümündeki sızıntı yalnız 0,4 puan şişirmiş; asıl kayıp 616 kelimeyi 45'e indirmekti.
